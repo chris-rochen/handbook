@@ -29,6 +29,7 @@ In alphabetical order:
 * [Pagely](https://pagely.com/)
 * [Pantheon](https://pantheon.io)
 * [Pressjitsu](https://pressjitsu.com)
+* [Rochen](https://www.rochen.com/wordpress-hosting)
 * [RoseHosting](https://www.rosehosting.com)
 * [Seravo.com](https://seravo.com)
 * [Servebolt.com](https://servebolt.com)
